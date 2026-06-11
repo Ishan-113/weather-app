@@ -1,6 +1,7 @@
 # Weather App
 
-A beginner-friendly weather app built with HTML, CSS, and JavaScript using the OpenWeatherMap API.
+A beginner-friendly weather app built with HTML, CSS, and JavaScript using the
+OpenWeatherMap API.
 
 ## Live Demo
 
@@ -31,7 +32,9 @@ git clone https://github.com/Ishan-113/weather-app.git
 cd weather-app
 ```
 
-Open `index.html` in your browser. If you replace the API key, update the `API_KEY` value in `script.js`.
+Open `index.html` in your browser.
+
+If you replace the API key, update the `API_KEY` value in `script.js`.
 
 ## Author
 
