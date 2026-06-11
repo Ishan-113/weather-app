@@ -1,7 +1,8 @@
 # Weather App
 
-A beginner-friendly weather app built with HTML, CSS, and JavaScript using the
-OpenWeatherMap API.
+A beginner-friendly weather app built with HTML, CSS, and JavaScript.
+
+The app uses the OpenWeatherMap API to show current weather details for a city.
 
 ## Live Demo
 
@@ -11,19 +12,21 @@ OpenWeatherMap API.
 
 - Search current weather by city name.
 - Display temperature in Celsius.
-- Show feels-like temperature, humidity, and wind speed.
+- Show feels-like temperature.
+- Show humidity and wind speed.
 - Render weather icons based on current conditions.
-- Support searching with the Enter key or search button.
-- Responsive interface for desktop and mobile screens.
+- Search with the Enter key or the search button.
+- Use a responsive interface for desktop and mobile screens.
 
 ## Tech Stack
 
 - HTML5
 - CSS3
 - Vanilla JavaScript
-- Fetch API and async/await
+- Fetch API
+- async/await
 - OpenWeatherMap API
-- Vercel deployment
+- Vercel
 
 ## Run Locally
 
